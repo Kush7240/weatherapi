@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Kush7240/weatherapi/static/css/main.38eb78b3.css",
-    "main.js": "/Kush7240/weatherapi/static/js/main.e995b0ad.js",
-    "index.html": "/Kush7240/weatherapi/index.html",
-    "main.38eb78b3.css.map": "/Kush7240/weatherapi/static/css/main.38eb78b3.css.map",
-    "main.e995b0ad.js.map": "/Kush7240/weatherapi/static/js/main.e995b0ad.js.map"
+    "main.css": "/weatherapi/static/css/main.38eb78b3.css",
+    "main.js": "/weatherapi/static/js/main.e995b0ad.js",
+    "index.html": "/weatherapi/index.html",
+    "main.38eb78b3.css.map": "/weatherapi/static/css/main.38eb78b3.css.map",
+    "main.e995b0ad.js.map": "/weatherapi/static/js/main.e995b0ad.js.map"
   },
   "entrypoints": [
     "static/css/main.38eb78b3.css",
